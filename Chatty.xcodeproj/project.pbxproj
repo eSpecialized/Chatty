@@ -72,6 +72,8 @@
 		D45A82C2173994A000C7B5B4 /* README.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = README.rtf; sourceTree = "<group>"; };
 		D45A82C51739A47800C7B5B4 /* Chatty Server.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Chatty Server.pdf"; sourceTree = "<group>"; };
 		D45A82C61739A49100C7B5B4 /* ChattyAppNode.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = ChattyAppNode.pdf; sourceTree = "<group>"; };
+		D4646BD31739B1430017D3F8 /* LICENSE.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.md; sourceTree = "<group>"; };
+		D4646BD41739B1440017D3F8 /* puzzle.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = puzzle.txt; sourceTree = "<group>"; };
 		D47BD4541739916300D20F01 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -112,6 +114,8 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
+				D4646BD31739B1430017D3F8 /* LICENSE.md */,
+				D4646BD41739B1440017D3F8 /* puzzle.txt */,
 				D45A82C61739A49100C7B5B4 /* ChattyAppNode.pdf */,
 				D45A82C51739A47800C7B5B4 /* Chatty Server.pdf */,
 				D45A82C2173994A000C7B5B4 /* README.rtf */,
