@@ -27,6 +27,7 @@
 		D0510A480F9DFD0300B735FA /* ChatRoomViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D0510A470F9DFD0300B735FA /* ChatRoomViewController.xib */; };
 		D0510A520F9E00BB00B735FA /* Room.m in Sources */ = {isa = PBXBuildFile; fileRef = D0510A510F9E00BB00B735FA /* Room.m */; };
 		D0510A700F9E14ED00B735FA /* UITextView+Utils.m in Sources */ = {isa = PBXBuildFile; fileRef = D0510A6E0F9E14ED00B735FA /* UITextView+Utils.m */; };
+		D4646BD81739B1990017D3F8 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = D4646BD71739B1990017D3F8 /* README.md */; };
 		D47BD4551739916300D20F01 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D47BD4541739916300D20F01 /* Default-568h@2x.png */; };
 /* End PBXBuildFile section */
 
@@ -69,11 +70,11 @@
 		D0510A510F9E00BB00B735FA /* Room.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Room.m; sourceTree = "<group>"; };
 		D0510A6E0F9E14ED00B735FA /* UITextView+Utils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITextView+Utils.m"; sourceTree = "<group>"; };
 		D0510A6F0F9E14ED00B735FA /* UITextView+Utils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITextView+Utils.h"; sourceTree = "<group>"; };
-		D45A82C2173994A000C7B5B4 /* README.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = README.rtf; sourceTree = "<group>"; };
 		D45A82C51739A47800C7B5B4 /* Chatty Server.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Chatty Server.pdf"; sourceTree = "<group>"; };
 		D45A82C61739A49100C7B5B4 /* ChattyAppNode.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = ChattyAppNode.pdf; sourceTree = "<group>"; };
 		D4646BD31739B1430017D3F8 /* LICENSE.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.md; sourceTree = "<group>"; };
 		D4646BD41739B1440017D3F8 /* puzzle.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = puzzle.txt; sourceTree = "<group>"; };
+		D4646BD71739B1990017D3F8 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 		D47BD4541739916300D20F01 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -114,11 +115,11 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
+				D4646BD71739B1990017D3F8 /* README.md */,
 				D4646BD31739B1430017D3F8 /* LICENSE.md */,
 				D4646BD41739B1440017D3F8 /* puzzle.txt */,
 				D45A82C61739A49100C7B5B4 /* ChattyAppNode.pdf */,
 				D45A82C51739A47800C7B5B4 /* Chatty Server.pdf */,
-				D45A82C2173994A000C7B5B4 /* README.rtf */,
 				D47BD4541739916300D20F01 /* Default-568h@2x.png */,
 				080E96DDFE201D6D7F000001 /* Classes */,
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
@@ -266,6 +267,7 @@
 				D0510A480F9DFD0300B735FA /* ChatRoomViewController.xib in Resources */,
 				D039DF4E0F9E50E100C77B72 /* WelcomeViewController.xib in Resources */,
 				D47BD4551739916300D20F01 /* Default-568h@2x.png in Resources */,
+				D4646BD81739B1990017D3F8 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
